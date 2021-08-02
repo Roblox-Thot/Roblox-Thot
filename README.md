@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on random projects
+- 🌱 I’m currently learning PHP and a bit of Python
+- 📫 How to reach me: [Discord](https://www.discord.com/users/378746510596243458) or [V3rmillion](https://v3rmillion.net/member.php?action=profile&uid=1385488)
+- 😄 Pronouns: He/Him (I know strange)
+- ⚡ Fun fact: I hate my self :)
 
 <!--
 **Roblox-Thot/Roblox-Thot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
