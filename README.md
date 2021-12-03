@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning PHP and a bit of Python
-- 📫 How to reach me: [Discord](https://www.discord.com/users/378746510596243458), [V3rmillion](https://v3rmillion.net/member.php?action=profile&uid=1385488), and [Twitter](https://twitter.com/RobIox_Thot)
-- 😄 Pronouns: He/Him (I know strange)
+- 📫 How to reach me: [Discord](https://www.discord.com/users/378746510596243458), [V3rmillion](https://v3rmillion.net/member.php?action=profile&uid=1385488), and [Twitter (unused)](https://twitter.com/RobIox_Thot)
+- 😄 Pronouns: Any
 - ⚡ Fun fact: I hate my self :)
 
 <div align="center">
