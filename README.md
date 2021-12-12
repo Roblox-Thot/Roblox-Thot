@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I hate my self :)
 
 <div align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=roblox-thot&color=e22319" /><br>
 <img align="center" src="https://discord.c99.nl/widget/theme-2/378746510596243458.png" />
 </div>
   
