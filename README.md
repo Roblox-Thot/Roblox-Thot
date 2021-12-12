@@ -7,9 +7,9 @@
 
 <div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=roblox-thot&color=e22319" /><br>
-<img align="center" src="https://discord.c99.nl/widget/theme-2/378746510596243458.png" />
+<img align="center" src="https://discord.c99.nl/widget/theme-2/378746510596243458.png" /><br>
+ View counter for profile and repos that I use: https://yhype.me/
 </div>
-  
 <!--
 **Roblox-Thot/Roblox-Thot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
