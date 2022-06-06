@@ -1,6 +1,6 @@
 
 
-<h1>I stoped exploiting so <i>DON'T</i> DM me about that or anything Roblox related! I will just ignore your DMs.<br>I will no longer be updating any of my code on her/h1>
+<h1>I stoped exploiting so <i>DON'T</i> DM me about that or anything Roblox related! I will just ignore your DMs.<br>I will no longer be updating any of my code on here</h1>
 <h3>And till next time... good afternoon, good evening, and good night!</h3>
 
 ### Hi there 👋
