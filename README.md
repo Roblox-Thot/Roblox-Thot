@@ -1,10 +1,15 @@
+
+
+<h1>I stoped exploiting so <b>DON'T</b> DM me about that or anything Roblox related! I will just ignore your DMs.</h1>
+<h3>And till next time... good afternoon, good evening, and good night!</h3>
+
 ### Hi there 👋
 - 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning PHP and a bit of Python
 - 🚫 I have quit condo's and anything to do with them so dont ask me about them
-- 📫 How to reach me: [Discord](https://www.discord.com/users/378746510596243458), [Discord Server](https://discord.gg/zTa5ux6bhc), [V3rmillion](https://v3rmillion.net/member.php?action=profile&uid=1385488), and [Twitter (unused)](https://twitter.com/RobIox_Thot)
+- 📫 How to reach me: [Discord](https://www.discord.com/users/378746510596243458), [V3rmillion](https://v3rmillion.net/member.php?action=profile&uid=1385488), and [Twitter (unused)](https://twitter.com/RobIox_Thot)
 - 😄 Pronouns: Any
-- ⚡ Fun fact: I hate my self :)
+- ⚡ 
 
 <div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=roblox-thot&color=e22319" /><br>
