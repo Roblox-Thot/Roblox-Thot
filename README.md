@@ -3,6 +3,7 @@
 <h1>I stoped exploiting Roblox's API so <i>DON'T</i> DM me about it! I will just ignore your DMs.<br>I will no longer be updating any of my old code</h1>
 <h3>And till next time... good afternoon, good evening, and good night!</h3>
 
+![](https://hit.yhype.me/github/profile?user_id=67937010)
 ### Hi there 👋
 - 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning PHP and a bit of Python
@@ -30,4 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://hit.yhype.me/github/profile?user_id=67937010)
