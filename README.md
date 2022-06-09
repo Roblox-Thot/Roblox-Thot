@@ -1,14 +1,11 @@
-
-
-<h1>I stoped exploiting Roblox's API so <i>DON'T</i> DM me about it! I will just ignore your DMs.<br>I will no longer be updating any of my old code</h1>
-<h3>And till next time... good afternoon, good evening, and good night!</h3>
+<h3>Till next time... good afternoon, good evening, and good night!</h3>
 
 ![](https://hit.yhype.me/github/profile?user_id=67937010)
 ### Hi there 👋
 - 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning PHP and a bit of Python
 - 🚫 I have quit condo's and anything to do with them so dont ask me about them
-- 📫 How to reach me: [Discord](https://www.discord.com/users/378746510596243458), [V3rmillion](https://v3rmillion.net/member.php?action=profile&uid=1385488), and [Twitter (unused)](https://twitter.com/RobIox_Thot)
+- 📫 How to reach me: [TikTok](https://www.tiktok.com/@roblox_thot), [Discord](https://www.discord.com/users/378746510596243458), [V3rmillion](https://v3rmillion.net/member.php?action=profile&uid=1385488), and [Twitter (unused)](https://twitter.com/RobIox_Thot)
 - 😄 Pronouns: Any
 - ⚡ 
 
