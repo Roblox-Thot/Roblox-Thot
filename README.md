@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning PHP and a bit of Python
 - 🚫 I have quit condo's and anything to do with them so dont ask me about them
-- 📫 How to reach me: [TikTok](https://www.tiktok.com/@roblox_thot), [Discord](https://www.discord.com/users/378746510596243458), [V3rmillion](https://v3rmillion.net/member.php?action=profile&uid=1385488), and [Twitter (unused)](https://twitter.com/RobIox_Thot)
+- 📫 How to reach me: [TikTok], [Discord], [V3rmillion], and [Twitter]
 - 😄 Pronouns: Any
 - ⚡ Fun fact: I hate my self :)
 
@@ -41,3 +41,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[TikTok]: https://www.tiktok.com/@roblox_thot "Roblox_Thot"
+[Discord]: https://www.discord.com/users/378746510596243458 "Roblox Thot#0001"
+[V3rmillion]: https://v3rmillion.net/member.php?action=profile&uid=1385488 "Roblox Thot"
+[Twitter]: https://twitter.com/RobIox_Thot "@Robiox_Thot"
