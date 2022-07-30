@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning PHP and a bit of Python
 - 🚫 I have quit condo's and anything to do with them so dont ask me about them
 - 📫 How to reach me: [TikTok], [Discord], [V3rmillion], and [Twitter]
+- 💰 Donate: DM me on Discord to donate any Crypto!
 - 😄 Pronouns: Any
 - ⚡ Fun fact: I hate my self :)
 
