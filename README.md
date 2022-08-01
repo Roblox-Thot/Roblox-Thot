@@ -22,9 +22,7 @@
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=roblox-thot&count_private=true&show_icons=true&theme=dracula&hide_border=true&hide_title=true)
-
 ![](https://github-readme-stats.vercel.app/api?username=roblox-thot&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roblox-thot&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dracula)
 
 </div>
