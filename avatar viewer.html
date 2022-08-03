@@ -1,0 +1,101 @@
+<header>
+    <style>
+        body {
+            background-color: #000000;
+            min-height: 98.3vh;
+            cursor:none;
+            overflow: hidden; /* Hide scrollbars */
+        }
+    
+        model-viewer{
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    
+    
+        /* Nav bar shit */
+        #navbar {
+            z-index: 9001;
+            overflow: hidden;
+            background-color: #333;
+        }
+    
+        #navbar a {
+            float: right;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+    
+        #navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+    
+        #navbar a.active {
+            background-color: #04AA6D;
+            color: white;
+        }
+    
+        /* The sticky class is added to the navbar with JS when it reaches its scroll position */
+        .sticky {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    
+        /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+        .sticky + .content {
+            padding-top: 60px;
+        }
+    </style>
+    
+    <!--#region meta data-->
+    <meta property='og:type' content='article' />
+    <meta property='og:title' content="Roblox Thot's avatar" />
+    <meta property='og:description' content="A interactive 3D model of Roblox Thot's avatar." />
+    <meta property='og:url' content='https://Roblox.com/' />
+    <meta property='og:site_name' content='UwUugle' />
+    <meta property='og:image' content='https://i.imgur.com/OloUM0f.png' />
+    <meta property='og:image:secure_url' content='https://i.imgur.com/OloUM0f.png' />
+
+    <meta name='twitter:card' content='summary' />
+    <meta name='twitter:title' content="Roblox Thot's avatar" />
+    <meta name='twitter:description' content="A interactive 3D model of Roblox Thot's avatar." />
+    <meta name='twitter:image' content='https://i.imgur.com/OloUM0f.png' />
+    <!--#endregion-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+    <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
+
+    <script>
+        function change(FName){
+            document.querySelector("#model-viewer").setAttribute("src", "https://raw.githubusercontent.com/Roblox-Thot/Roblox-Thot/main/files/"+FName+".glb");
+        }
+    </script>
+</header>
+
+
+
+
+
+<div id="navbar" class="sticky">
+    <a id="normal" onclick="change('normal')" href="#">Normal</a>
+    <a id="t" onclick="change('t')" href="#">T-Pose</a>
+    <a id="r15" onclick="change('r15')" href="#">R15</a>
+</div>
+
+<!--
+    To make your own use https://github.com/Roblox-Thot/Avatar2OBJ and then convert the model to GLB using anything like blender
+-->
+
+<model-viewer id="model-viewer" shadow-intensity="1" src="https://raw.githubusercontent.com/Roblox-Thot/Roblox-Thot/main/files/normal.glb"
+alt="My roblox avatar" camera-controls enable-pan
+></model-viewer>
