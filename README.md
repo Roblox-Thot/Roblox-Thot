@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning PHP and a bit of Python
 - 🚫 I have quit condo's and anything to do with them so dont ask me about them
-- 📫 How to reach me: [TikTok], [Discord], [V3rmillion], and [Twitter]
+- 📫 How to reach me: [TikTok], [Discord], [V3rmillion], [Keybase], and [Twitter]
 - 💰 Donate: DM me on Discord to donate any Crypto!
 - 😄 Pronouns: Any
 - ⚡ Fun fact: I hate my self :)
@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 [Discord]: https://www.discord.com/users/378746510596243458 "Roblox Thot#0001"
 [V3rmillion]: https://v3rmillion.net/member.php?action=profile&uid=1385488 "Roblox Thot"
 [Twitter]: https://twitter.com/RobIox_Thot "@Robiox_Thot"
+[Keybase]: https://keybase.io/roblox_thot "roblox_thot"
