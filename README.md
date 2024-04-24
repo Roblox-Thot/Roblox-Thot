@@ -25,26 +25,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roblox-thot&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dracula)
 
 </div>
-<!--
-**Roblox-Thot/Roblox-Thot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [TikTok]: https://www.tiktok.com/@roblox_thot "Roblox_Thot"
-[Discord]: https://www.discord.com/users/378746510596243458 "Roblox Thot#0001"
+[Discord]: https://amitermed.com/0E8cqg "Roblox_Thot"
 [Bloxflip V3rm]: https://v3rm.net/members/roblox-thot.519/ "Roblox Thot"
 [VII]: https://vii.sh/u/roblox_thot "Roblox_Thot"
-[Twitter]: https://twitter.com/RobIox_Thot "@Robiox_Thot"
+[Twitter]: https://amitermed.com/b5upHQ "@Robiox_Thot"
 [Keybase]: https://keybase.io/roblox_thot "roblox_thot"
-[Telegram]: https://t.me/Roblox_Thot "@Roblox_Thot"
+[Telegram]: https://amitermed.com/hSmyHw "@Roblox_Thot"
 [@RobloxThot]: https://github.com/RobloxThot "@RobloxThot"
