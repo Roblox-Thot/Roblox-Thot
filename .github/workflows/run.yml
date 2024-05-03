@@ -11,18 +11,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.x
-
-    - name: Run grab.py
-      run: python grab.py
-      
-    - name: Update file
+    - name: Make blank commit and push
       run: |
         git pull origin main
         git commit --allow-empty -m ":3"
