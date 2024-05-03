@@ -1,0 +1,28 @@
+name: Blank commit every hour
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Run grab.py
+      run: python grab.py
+      
+    - name: Update file
+      run: |
+        git pull origin main
+        git commit --allow-empty -m ":3"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
