@@ -3,6 +3,9 @@ name: Blank commit every hour
 on:
   schedule:
     - cron: "0 * * * *"
+  push:
+    paths:
+      - '**.yml'
 
 jobs:
   update:
