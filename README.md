@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on random projects
 - 📁 All my old archived projects are on [@RobloxThot]
-- 📫 How to reach me: [Telegram], [TikTok], [Discord], [V3rm], [Keybase], and [X]
+- 📫 How to reach me: [Telegram], [TikTok], [Discord], [V3rm], [Keybase], and [Twitter]
 - 💰 Donate: DM me on Discord to donate any Crypto!
 - 😄 Pronouns: Any are fine I could care less
 - ⚡ Fun fact: I hate my self :)
@@ -36,7 +36,7 @@
 [TikTok]: https://www.tiktok.com/@roblox_thot "Roblox_Thot"
 [Discord]: https://amitermed.com/0E8cqg "Roblox_Thot"
 [V3rm]: https://v3rm.net/members/roblox-thot.519/ "Roblox Thot"
-[X]: https://amitermed.com/b5upHQ "@Robiox_Thot"
+[Twitter]: https://amitermed.com/b5upHQ "@Robiox_Thot"
 [Keybase]: https://keybase.io/roblox_thot "roblox_thot"
 [Telegram]: https://amitermed.com/hSmyHw "@Roblox_Thot"
 [@RobloxThot]: https://github.com/RobloxThot "@RobloxThot"
