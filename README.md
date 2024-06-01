@@ -1,7 +1,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=67937010)
 
-<h3>Till next time... good afternoon, good evening, and good night!</h3>
-
 <div align="left" width="10">
 <h1>Hi there 👋</h1>
 
