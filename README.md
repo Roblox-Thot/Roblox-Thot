@@ -7,7 +7,7 @@
 - 📁 All my old archived projects are on [@RobloxThot]
 - 📫 How to reach me: [Telegram], [TikTok], [Discord], [V3rm], [Keybase], and [Twitter]
 - 🌍 Sites I run/own: [UwUugle.com], [Embedding.mov]
-- 💰 Donate: DM me on Discord to donate any Crypto!
+- 💰 Donate: DM me on Discord to donate any [Crypto]!
 - 😄 Pronouns: Any are fine I could care less
 - ⚡ Fun fact: I hate my self :)
 
@@ -40,5 +40,6 @@
 [Telegram]: https://amitermed.com/hSmyHw "@Roblox_Thot"
 [@RobloxThot]: https://github.com/RobloxThot "@RobloxThot"
 
+[Crypto]: https://roblox-thot.github.io/crypto "Don't check often"
 [UwUugle.com]: https://uwuugle.com
 [Embedding.mov]: https://embedding.mov/ies
