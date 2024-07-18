@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=67937010)
 
 <div align="left" width="10">
 <h1>Hi there 👋</h1>
@@ -13,6 +12,7 @@
 <!-- - 📁 All my old archived projects are on [@RobloxThot]-->
 </div>
 
+![](https://hit.yhype.me/github/profile?user_id=67937010)
 
 <div align="center">
 <img align="center" src="https://lanyard.cnrad.dev/api/378746510596243458" /><br>
