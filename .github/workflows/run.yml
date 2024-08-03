@@ -118,7 +118,6 @@ jobs:
         git commit --allow-empty -m ":3"
         git commit --allow-empty -m ":3"
         git commit --allow-empty -m ":3"
-        git pull
         git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
