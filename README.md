@@ -20,15 +20,13 @@
 </div>
  
 <h1>Some stats</h1>
-
 <div align="center">
+<sub>Enjoy my fucked commit count :)</sub>
 
 ![](https://github-readme-stats.vercel.app/api?username=roblox-thot&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roblox-thot&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dracula)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Roblox-Thot?theme=nord&font=Segoe%20UI&ext=activity)
-
-<img align="center" src="https://komarev.com/ghpvc/?username=roblox-thot&color=e22319" /><br>
 </div>
 
 
