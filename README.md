@@ -1,6 +1,10 @@
 
-<div align="left" width="10">
+<img width=100% src="https://github.com/user-attachments/assets/4e311137-a783-461a-97bb-35caa5ef26fd">
+
+<div align="center" >
 <h1>Hi there 👋</h1>
+</div>
+<div width="10">
 
 - 🔭 I’m currently working on random projects
 - 📫 How to reach me: [Telegram], [TikTok], [Discord], [V3rm], [Keybase], [Signal], and [Twitter]
@@ -19,8 +23,8 @@
 <!--<img align="center" src="https://user-images.githubusercontent.com/67937010/172744784-e16cebdd-f070-45bd-a0bb-b771ac8dad74.gif" /><br>-->
 </div>
  
-<h1>Some stats</h1>
 <div align="center">
+<h1>Some stats</h1>
 <sub>Enjoy my fucked commit count :)</sub>
 
 ![](https://github-readme-stats.vercel.app/api?username=roblox-thot&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula)
