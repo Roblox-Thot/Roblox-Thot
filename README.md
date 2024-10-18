@@ -7,7 +7,7 @@
 <div width="10">
 
 - 🔭 I’m currently working on random projects
-- 📫 How to reach me: [Telegram], [TikTok], [Discord], [V3rm], [Keybase], [Signal], and [Twitter]
+- 📫 How to reach me: [Telegram], [TikTok], [Discord], [V3rm], [Keybase], and [Twitter]
 - 🌍 Site(s) I own: [Vxpe.zip], [Embedding.mov]
 - 💰 Donate: DM me on Discord to donate any [Crypto]!
 - 😄 Pronouns: Any are fine I could care less
@@ -39,7 +39,6 @@
 [V3rm]: https://v3rm.net/members/roblox-thot.519/ "Roblox Thot"
 [Twitter]: https://amitermed.com/b5upHQ "@Robiox_Thot"
 [Keybase]: https://keybase.io/roblox_thot "roblox_thot"
-[Signal]: https://signal.me/#eu/tY9EFszN2NGohNXU7mDXXV-eeFRsUBSFUP0bmgIlkF5u9K0wH61Ar7BA1IW-0XVC "roblox_thot.01"
 [Telegram]: https://amitermed.com/hSmyHw "@Roblox_Thot"
 [@RobloxThot]: https://github.com/RobloxThot "@RobloxThot"
 
