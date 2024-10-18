@@ -9,9 +9,9 @@
 - 🔭 I’m currently working on random projects
 - 📫 How to reach me: [Telegram], [TikTok], [Discord], [V3rm], [Keybase], and [Twitter]
 - 🌍 Site(s) I own: [Vxpe.zip], [Embedding.mov]
-- 💰 Donate: DM me on Discord to donate any [Crypto]!
+- 💰 Donate: DM me on [Discord] to donate any [Crypto]!
 - 😄 Pronouns: Any are fine I could care less
-- ⚡ Fun fact: I hate my self :)
+- ⚡ Fun fact: I hate my self too :)
 
 <!-- - 📁 All my old archived projects are on [@RobloxThot]-->
 </div>
@@ -19,8 +19,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=67937010)
 
 <div align="center">
-<img align="center" src="https://lanyard.cnrad.dev/api/378746510596243458" /><br>
-<!--<img align="center" src="https://user-images.githubusercontent.com/67937010/172744784-e16cebdd-f070-45bd-a0bb-b771ac8dad74.gif" /><br>-->
+<img align="center" src="https://lanyard.cnrad.dev/api/378746510596243458" />
 </div>
  
 <div align="center">
