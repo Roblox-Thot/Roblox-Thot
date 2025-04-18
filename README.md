@@ -8,12 +8,12 @@
 
 - 🔭 I’m currently working on random projects
 - 📫 How to reach me: [Telegram], [Discord], [V3rm], and [Twitter]
-- 🌍 Site(s) I own: [Vxpe.zip], [Embedding.mov]
 - 💰 Donate: DM me on [Discord] to donate any [Crypto]!
 - 😄 Pronouns: Any are fine I could care less
 - ⚡ Fun fact: I hate my self too :)
 
-<!-- - 📁 All my old archived projects are on [@RobloxThot]-->
+<!-- - 📁 All my old archived projects are on [@RobloxThot]
+- 🌍 Site(s) I own: [Vxpe.zip], [Embedding.mov]-->
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=67937010)
