@@ -7,7 +7,8 @@
 <div width="10">
 
 - 🔭 I’m currently working on random projects
-- 📫 How to reach me: [Telegram], [Discord], [V3rm], and [Twitter]
+- 📫 How to reach me: [Telegram]/[Discord]
+- 🔎 You can also find me on [V3rm], I am just not active there anymore
 - 💰 Donate: DM me on [Discord] to donate any [Crypto]!
 - 😄 Pronouns: Any are fine I could care less
 - ⚡ Fun fact: I hate my self too :)
