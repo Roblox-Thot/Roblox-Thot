@@ -1,0 +1,25 @@
+name: Blank commits every hour
+
+on:
+  schedule:
+    - cron: "0 */5 * * *"
+  push:
+    paths:
+      - '**.yml'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Make blank commit and push
+      run: |
+        (( RANDOM % 10 == 0 )) && exit 0
+        git config --global user.email "67937010+Roblox-Thot@users.noreply.github.com"
+        git config --global user.name "Roblox_Thot"
+        git pull origin main
+        git commit --allow-empty -m "Fix overflow"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
