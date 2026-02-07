@@ -1,4 +1,3 @@
-
 <img width=100% src="https://github.com/user-attachments/assets/4e311137-a783-461a-97bb-35caa5ef26fd">
 
 <div align="center" >
@@ -9,7 +8,6 @@
 - 🔭 I’m currently working on random projects
 - 📫 How to reach me: [Telegram]/[Discord]
 - 🔎 You can also find me on [V3rm], I am just not active there anymore
-- 💰 Donate: DM me on [Discord] to donate any [Crypto]!
 - 😄 Pronouns: Any are fine I could care less
 - ⚡ Fun fact: I hate my self too :)
 
@@ -40,6 +38,5 @@
 [Telegram]: https://t.me/Roblox_Thot "@Roblox_Thot"
 [@RobloxThot]: https://github.com/RobloxThot "@RobloxThot"
 
-[Crypto]: https://roblox-thot.github.io/crypto "Don't check often"
 [Vxpe.zip]: https://Vxpe.zip
 [Embedding.mov]: https://embedding.mov/ies
